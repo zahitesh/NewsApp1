@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp1</string>
+    <string name="btnTopHeadlines">NewsApp1</string>
+    <string name="btnSearch">NewsApp1</string>
+    <string name="btnCountries">NewsApp1</string>
+    <string name="btnNews">NewsApp1</string>
+</resources>
